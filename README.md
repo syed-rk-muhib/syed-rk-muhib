@@ -15,8 +15,8 @@
    
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srkmuhib@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srk-muhib)
-[![Upwork](https://img.shields.io/badge/Upwork-2B2A29?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-4ECA8A?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
+[![Upwork](https://img.shields.io/badge/Upwork-2B2A29?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015d7a61c9cdb881e9?mp_source=share)
+[![Fiverr](https://img.shields.io/badge/Fiverr-4ECA8A?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/ak4Z1mG)
 [![Google Meet](https://img.shields.io/badge/Google_Meet-008C45?style=for-the-badge&logo=googlemeet&logoColor=white)](https://meet.google.com/)
 [![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)](https://teams.microsoft.com/)
 
